@@ -98,3 +98,8 @@ yarn dev
 ```
 
 The application should now be running locally, typically at `http://localhost:3000`, with all API-dependent features fully functional.
+
+## Usage
+
+*   **To Generate Music:** Navigate to the "Generator" page, select a genre, enter a text prompt, and click "Generate My Track".
+*   **To Deconstruct Music:** Navigate to the "Deconstructor" page, select an audio file from your computer, and click "Upload and Deconstruct". The separated stems will appear once processing is complete.
